@@ -1,6 +1,8 @@
 // Copyright 2015, EMC, Inc.
 /* jshint node:true */
 
+// FIXME: Not debugged
+
 'use strict';
 
 describe(require('path').basename(__filename), function () {
